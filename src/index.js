@@ -31,7 +31,7 @@ function displayTemperature(response) {
     }
   
     let days = [
-      "Sunday",
+      "unday",
       "Monday",
       "Tuesday",
       "Wednesday",
